@@ -6,7 +6,7 @@ box-node-express-skeleton-app/app/config/production.js
 box-node-express-skeleton-app/app/*_config.json
 config.json
 package-lock.json
-
+ .mvn/
 node_modules/
 .DS_Store
 .idea/
@@ -26,12 +26,12 @@ node_modules/
 .idea/
 target/
 *.iml
-
+mvnw
 # Package Files #
 *.jar
 *.war
 *.ear
-
+mvnw
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
