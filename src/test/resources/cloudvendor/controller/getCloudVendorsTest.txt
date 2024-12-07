@@ -1,2 +1,0 @@
-vendorId,vendorName,vendorAddress,vendorPhoneNumber,
-vendor1Id,vendor1Name,vendor1Address,vendor1PhoneNumber,
