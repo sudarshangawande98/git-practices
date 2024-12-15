@@ -1,0 +1,3 @@
+INSERT INTO cloud_vendor_info (vendor_Id, vendor_Name, vendor_Address, vendor_Phone_Number) VALUES ('V1', 'Vendor1 Name', 'Vendor1 Address', 'xxxxx');
+INSERT INTO cloud_vendor_info (vendor_Id, vendor_Name, vendor_Address, vendor_Phone_Number) VALUES ('V2', 'Vendor2 Name', 'Vendor2 Address', 'xxxxx');
+INSERT INTO cloud_vendor_info (vendor_Id, vendor_Name, vendor_Address, vendor_Phone_Number) VALUES ('V3', 'Vendor3 Name', 'Vendor3 Address', 'xxxxx');
